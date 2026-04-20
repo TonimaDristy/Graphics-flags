@@ -4,5 +4,6 @@ I also used:
  🔹 glColor3f() to define custom RGB color values
  🔹 gluOrtho2D() to set up the 2D projection
  🔹 glClearColor() to set the background
+ 
  Demo;
- [Flag 1](https://github.com/TonimaDristy/Graphics-flags/blob/main/Screenshot%202026-04-20%20230355.png) , [Flag 2]() 
+ [Flag 1](https://github.com/TonimaDristy/Graphics-flags/blob/main/Screenshot%202026-04-20%20230355.png) , [Flag 2](https://github.com/TonimaDristy/Graphics-flags/blob/main/Screenshot%202026-04-20%20230436.png) 
